@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project addresses the business need to move from a "one-size-fits-all" marketing strategy to a targeted, data-driven approach. By analyzing transactional data, this analysis identifies distinct customer groups based on their purchasing behavior. The resulting segments enable the company to create personalized and cost-effective marketing campaigns, improving customer retention and maximizing ROI.
 
@@ -8,7 +8,7 @@ The core methodology involves **RFM (Recency, Frequency, Monetary) analysis** fo
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The analysis uses the **Online Retail Dataset** from the UCI Machine Learning Repository.
 
@@ -17,7 +17,7 @@ The analysis uses the **Online Retail Dataset** from the UCI Machine Learning Re
 
 ---
 
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -36,7 +36,7 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-## 🏃‍♀️ How to Run the Project
+##  How to Run the Project
 
 You can run the analysis in two ways:
 
@@ -54,17 +54,17 @@ You can run the analysis in two ways:
 
 ---
 
-## ✨ Key Findings: Customer Segments
+##  Key Findings: Customer Segments
 
 The analysis successfully identified 3 distinct and actionable customer segments:
 
--   **👑 High-Value Champions:** These are the most loyal and profitable customers. They buy frequently, spend the most, and have purchased very recently.
+-   ** High-Value Champions:** These are the most loyal and profitable customers. They buy frequently, spend the most, and have purchased very recently.
     -   **Strategy:** Retain and reward. Offer loyalty programs, exclusive access, and VIP perks.
 
--   **⚠️ At-Risk Spenders:** This group consists of valuable customers who used to spend and purchase regularly but haven't done so in a while.
+-   ** At-Risk Spenders:** This group consists of valuable customers who used to spend and purchase regularly but haven't done so in a while.
     -   **Strategy:** Re-engage and prevent churn. Target them with personalized "we miss you" campaigns and special offers.
 
--   **🌱 New or Lapsed Customers:** These customers have low frequency and monetary value, and a high recency score (they haven't shopped in a long time). This group includes new customers and those who have become inactive.
+-   ** New or Lapsed Customers:** These customers have low frequency and monetary value, and a high recency score (they haven't shopped in a long time). This group includes new customers and those who have become inactive.
     -   **Strategy:** Nurture and reactivate. Use welcome email series for new customers and win-back campaigns for lapsed ones.
 
 ### Segment Visualization
@@ -72,7 +72,7 @@ The analysis successfully identified 3 distinct and actionable customer segments
 
 
 ---
-## 💻 Technologies Used
+##  Technologies Used
 
 -   **Python**
 -   **Pandas** (for data manipulation)
