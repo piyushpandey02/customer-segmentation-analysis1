@@ -70,4 +70,13 @@ The analysis successfully identified 3 distinct and actionable customer segments
 ### Segment Visualization
 ![Customer Segments Plot](Reports/Figures/customer_segments.png)
 
+
 ---
+## 💻 Technologies Used
+
+-   **Python**
+-   **Pandas** (for data manipulation)
+-   **NumPy** (for numerical operations)
+-   **Scikit-learn** (for K-Means clustering)
+-   **Matplotlib & Seaborn** (for data visualization)
+-   **Jupyter Notebook** (for exploratory analysis)
