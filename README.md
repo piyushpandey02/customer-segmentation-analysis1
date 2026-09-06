@@ -68,7 +68,7 @@ The analysis successfully identified 3 distinct and actionable customer segments
     -   **Strategy:** Nurture and reactivate. Use welcome email series for new customers and win-back campaigns for lapsed ones.
 
 ### Segment Visualization
-![Customer Segments Plot](Reports/Figures/customer_segments (1).png)
+![Customer Segments Plot](Reports/Figures/customer_segments.png)
 
 
 ---
